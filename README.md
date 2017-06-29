@@ -1,2 +1,2 @@
 # CS61
-CS61 Assembly Language
+Machine Organization and Assembly Language Programming (Assembly Language)
